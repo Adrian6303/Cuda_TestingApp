@@ -1,0 +1,11 @@
+Total threads used on CPU: 20
+CPU execution time for 100x100 matrix: 0.0021767 seconds
+Total threads used on GPU: 12544
+GPU execution time for 100x100 matrix: 0.0131378 seconds
+Results are correct!
+
+Total threads used on CPU: 20
+CPU execution time for 1000x1000 matrix: 1.87811 seconds
+Total threads used on GPU: 1016064
+GPU execution time for 1000x1000 matrix: 0.0038082 seconds
+Results are correct!
